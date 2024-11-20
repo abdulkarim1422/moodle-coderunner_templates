@@ -1,3 +1,4 @@
+**`اللغة العربية في الأسفل`**
 # Moodle CodeRunner Templates
 
 This repository contains templates for the Moodle plugin: CodeRunner. These templates are designed to help educators create coding questions for students to solve within the Moodle learning management system.
@@ -48,7 +49,7 @@ Contributions are welcome! If you have improvements or new templates to add, ple
 
 ## الروابط
 
-- [مكون Moodle CodeRunner الإضافي](https://moodle.org/plugins/qtype_coderunner)
+- [إضافة Moodle على CodeRunner](https://moodle.org/plugins/qtype_coderunner)
 - [مستودع Moodle CodeRunner على GitHub](https://github.com/trampgeek/moodle-qtype_coderunner)
 - [مستودع خادم Jobe على GitHub](https://github.com/trampgeek/jobe?tab=readme-ov-file)
 
