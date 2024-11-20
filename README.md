@@ -49,7 +49,7 @@ Contributions are welcome! If you have improvements or new templates to add, ple
 
 ## الروابط
 
-- [إضافة Moodle على CodeRunner](https://moodle.org/plugins/qtype_coderunner)
+- [إضافة CodeRunner على Moodle](https://moodle.org/plugins/qtype_coderunner)
 - [مستودع Moodle CodeRunner على GitHub](https://github.com/trampgeek/moodle-qtype_coderunner)
 - [مستودع خادم Jobe على GitHub](https://github.com/trampgeek/jobe?tab=readme-ov-file)
 
